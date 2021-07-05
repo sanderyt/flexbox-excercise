@@ -9,9 +9,10 @@ body {
 
 .box {
   margin: 24px;
-  border: 2px solid black;
-  background-color: lightsalmon;
-  color: white;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  box-shadow: 0 0 10px #aaa;
+  border-top: 3px solid lightslategray;
   padding: 12px;
   font-weight: bold;
 }
